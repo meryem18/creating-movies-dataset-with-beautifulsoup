@@ -1,0 +1,842 @@
+[
+  {
+    "title": "My Best Friend's Birthday",
+    "Directed by": "Quentin Tarantino",
+    "Written by": [
+      "Quentin Tarantino",
+      "Craig Hamann"
+    ],
+    "Produced by": [
+      "Quentin Tarantino",
+      "Craig Hamann",
+      "Rand Vossler"
+    ],
+    "Starring": [
+      "Quentin Tarantino",
+      "Craig Hamann",
+      "Crystal Shaw",
+      "Allen Garfield",
+      "Al Harrell",
+      "Brenda Hillhouse",
+      "Linda Kaye",
+      "Stevo Polyi",
+      "Alan Sanborn",
+      "Rich Turner",
+      "Rowland Wafford"
+    ],
+    "Cinematography": [
+      "Roger Avary",
+      "Scott Magill",
+      "Roberto A. Quezada",
+      "Rand Vossler"
+    ],
+    "Edited by": "Quentin Tarantino",
+    "Distributed by": "Super Happy Fun",
+    "Release date": [
+      "1987"
+    ],
+    "Running time": [
+      "70 minutes (original version)",
+      "36 minutes (remaining version)"
+    ],
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$5,000 (estimated)"
+  },
+  {
+    "title": "Past Midnight",
+    "Directed by": "Jan Eliasberg",
+    "Written by": [
+      "Frank Norwood",
+      "Quentin Tarantino",
+      "(uncredited)"
+    ],
+    "Produced by": [
+      "Lisa M. Hansen",
+      "Catalaine Knell",
+      "Nancy Rae Stone",
+      "Quentin Tarantino"
+    ],
+    "Starring": [
+      "Rutger Hauer",
+      "Natasha Richardson",
+      "Clancy Brown",
+      "Guy Boyd"
+    ],
+    "Cinematography": "Robert D. Yeoman",
+    "Edited by": "Christopher Rouse",
+    "Music by": "Steve Bartek",
+    "Production company": "CineTel Films",
+    "Distributed by": [
+      "New Line Cinema",
+      "Cineplex Odeon Films",
+      "Columbia TriStar"
+    ],
+    "Release date": [
+      "October 18, 1991"
+    ],
+    "Running time": "100 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "Directed by": "Quentin Tarantino",
+    "Written by": "Quentin Tarantino",
+    "Produced by": "Lawrence Bender",
+    "Starring": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Chris Penn",
+      "Steve Buscemi",
+      "Lawrence Tierney",
+      "Michael Madsen",
+      "Quentin Tarantino"
+    ],
+    "Cinematography": "Andrzej Sekuła",
+    "Edited by": "Sally Menke",
+    "Production companies": [
+      "Live America Inc.",
+      "Dog Eat Dog Productions"
+    ],
+    "Distributed by": "Miramax Films",
+    "Release dates": [
+      "January 21, 1992 ( Sundance )",
+      "October 9, 1992 (United States)"
+    ],
+    "Running time": "99 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.2–3 million",
+    "Box office": "$2.9 million"
+  },
+  {
+    "title": "True Romance",
+    "Directed by": "Tony Scott",
+    "Written by": "Quentin Tarantino",
+    "Produced by": [
+      "Samuel Hadida",
+      "Steve Perry",
+      "Bill Unger"
+    ],
+    "Starring": [
+      "Christian Slater",
+      "Patricia Arquette",
+      "Dennis Hopper",
+      "Val Kilmer",
+      "Gary Oldman",
+      "Brad Pitt",
+      "Christopher Walken"
+    ],
+    "Cinematography": "Jeffrey L. Kimball",
+    "Edited by": [
+      "Michael Tronick",
+      "Christian Wagner"
+    ],
+    "Music by": "Hans Zimmer",
+    "Production companies": [
+      "Morgan Creek Productions",
+      "Davis Films",
+      "A Band Apart"
+    ],
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "September 10, 1993"
+    ],
+    "Running time": "118 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$12.5 million",
+    "Box office": "$12.6 million"
+  },
+  {
+    "title": "Pulp Fiction",
+    "Directed by": "Quentin Tarantino",
+    "Written by": "Quentin Tarantino",
+    "Story by": [
+      "Quentin Tarantino",
+      "Roger Avary"
+    ],
+    "Produced by": "Lawrence Bender",
+    "Starring": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Harvey Keitel",
+      "Tim Roth",
+      "Amanda Plummer",
+      "Maria de Medeiros",
+      "Ving Rhames",
+      "Eric Stoltz",
+      "Rosanna Arquette",
+      "Christopher Walken",
+      "Bruce Willis"
+    ],
+    "Cinematography": "Andrzej Sekuła",
+    "Edited by": "Sally Menke",
+    "Production companies": [
+      "A Band Apart",
+      "Jersey Films"
+    ],
+    "Distributed by": "Miramax Films",
+    "Release dates": [
+      "May 21, 1994 ( Cannes )",
+      "October 14, 1994 (United States)"
+    ],
+    "Running time": "154 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$8–8.5 million",
+    "Box office": "$213.9 million"
+  },
+  {
+    "title": "Natural Born Killers",
+    "Directed by": "Oliver Stone",
+    "Screenplay by": [
+      "David Veloz",
+      "Richard Rutowski",
+      "Oliver Stone"
+    ],
+    "Story by": "Quentin Tarantino",
+    "Produced by": [
+      "Jane Hamsher",
+      "Don Murphy",
+      "Clayton Townsend"
+    ],
+    "Starring": [
+      "Woody Harrelson",
+      "Juliette Lewis",
+      "Robert Downey Jr.",
+      "Tommy Lee Jones",
+      "Tom Sizemore"
+    ],
+    "Cinematography": "Robert Richardson",
+    "Edited by": [
+      "Hank Corwin",
+      "Brian Berdan"
+    ],
+    "Production companies": [
+      "Regency Enterprises",
+      "Alcor Films",
+      "Ixtlan Productions",
+      "New Regency",
+      "JD Productions"
+    ],
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "August 26, 1994"
+    ],
+    "Running time": [
+      "119 minutes"
+    ],
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$34 million",
+    "Box office": "$110 million"
+  },
+  {
+    "title": "It's Pat",
+    "Directed by": "Adam Bernstein",
+    "Screenplay by": [
+      "Julia Sweeney",
+      "Jim Emerson",
+      "Stephen Hibbert"
+    ],
+    "Based on": [
+      "The character",
+      "by Julia Sweeney"
+    ],
+    "Produced by": "Charles B. Wessler",
+    "Starring": [
+      "Julia Sweeney",
+      "Dave Foley",
+      "Charles Rocket"
+    ],
+    "Cinematography": "Jeff Jur",
+    "Edited by": "Norman Hollyn",
+    "Music by": "Mark Mothersbaugh",
+    "Production company": "Touchstone Pictures",
+    "Distributed by": "Buena Vista Pictures",
+    "Release date": [
+      "August 26, 1994 (United States)"
+    ],
+    "Running time": "78 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$8 million",
+    "Box office": "$60,822"
+  },
+  {
+    "title": "Crimson Tide",
+    "Directed by": "Tony Scott",
+    "Screenplay by": "Michael Schiffer",
+    "Story by": [
+      "Michael Schiffer",
+      "Richard P. Henrick"
+    ],
+    "Produced by": [
+      "Don Simpson",
+      "Jerry Bruckheimer"
+    ],
+    "Starring": [
+      "Denzel Washington",
+      "Gene Hackman",
+      "George Dzundza",
+      "Viggo Mortensen",
+      "James Gandolfini",
+      "Matt Craven"
+    ],
+    "Cinematography": "Dariusz Wolski",
+    "Edited by": "Chris Lebenzon",
+    "Music by": "Hans Zimmer",
+    "Production companies": [
+      "Hollywood Pictures",
+      "Don Simpson / Jerry Bruckheimer Films"
+    ],
+    "Distributed by": "Buena Vista Pictures",
+    "Release date": [
+      "May 12, 1995"
+    ],
+    "Running time": "116 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$53 million",
+    "Box office": "$157.4 million"
+  },
+  {
+    "title": "Four Rooms",
+    "Directed by": [
+      "Allison Anders",
+      "Alexandre Rockwell",
+      "Robert Rodriguez",
+      "Quentin Tarantino"
+    ],
+    "Written by": [
+      "Allison Anders",
+      "Alexandre Rockwell",
+      "Robert Rodriguez",
+      "Quentin Tarantino"
+    ],
+    "Produced by": "Lawrence Bender",
+    "Starring": [
+      "Tim Roth",
+      "Antonio Banderas",
+      "Jennifer Beals",
+      "Paul Calderon",
+      "Sammi Davis",
+      "Valeria Golino",
+      "Madonna",
+      "David Proval",
+      "Ione Skye",
+      "Lili Taylor",
+      "Marisa Tomei",
+      "Tamlyn Tomita"
+    ],
+    "Cinematography": [
+      "Rodrigo García",
+      "Phil Parmet",
+      "Guillermo Navarro",
+      "Andrzej Sekuła"
+    ],
+    "Edited by": [
+      "Margie Goodspeed",
+      "Elena Maganini",
+      "Robert Rodriguez",
+      "Sally Menke"
+    ],
+    "Music by": "Combustible Edison",
+    "Production company": "A Band Apart",
+    "Distributed by": "Miramax Films",
+    "Release date": [
+      "December 25, 1995"
+    ],
+    "Running time": "98 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4 million",
+    "Box office": "$4,257,354"
+  },
+  {
+    "title": "From Dusk till Dawn",
+    "Directed by": "Robert Rodriguez",
+    "Screenplay by": "Quentin Tarantino",
+    "Story by": "Robert Kurtzman",
+    "Produced by": [
+      "Gianni Nunnari",
+      "Meir Teper"
+    ],
+    "Starring": [
+      "Harvey Keitel",
+      "George Clooney",
+      "Quentin Tarantino",
+      "Juliette Lewis",
+      "Cheech Marin",
+      "Fred Williamson",
+      "Salma Hayek"
+    ],
+    "Cinematography": "Guillermo Navarro",
+    "Edited by": "Robert Rodriguez",
+    "Music by": "Graeme Revell",
+    "Production companies": [
+      "Dimension Films",
+      "A Band Apart",
+      "Los Hooligans Productions"
+    ],
+    "Distributed by": "Miramax Films",
+    "Release date": [
+      "January 19, 1996"
+    ],
+    "Running time": "108 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$19 million",
+    "Box office": "$59.3 million"
+  },
+  {
+    "title": "The Rock",
+    "Directed by": "Michael Bay",
+    "Screenplay by": [
+      "David Weisberg",
+      "Douglas Cook",
+      "Mark Rosner"
+    ],
+    "Story by": [
+      "David Weisberg",
+      "Douglas Cook"
+    ],
+    "Produced by": [
+      "Don Simpson",
+      "Jerry Bruckheimer"
+    ],
+    "Starring": [
+      "Sean Connery",
+      "Nicolas Cage",
+      "Ed Harris",
+      "Michael Biehn",
+      "William Forsythe"
+    ],
+    "Cinematography": "John Schwartzman",
+    "Edited by": "Richard Francis-Bruce",
+    "Music by": [
+      "Nick Glennie-Smith",
+      "Hans Zimmer"
+    ],
+    "Production companies": [
+      "Hollywood Pictures",
+      "Don Simpson / Jerry Bruckheimer Films"
+    ],
+    "Distributed by": "Buena Vista Pictures Distribution",
+    "Release date": [
+      "June 7, 1996"
+    ],
+    "Running time": "136 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$75 million",
+    "Box office": "$335.1 million"
+  },
+  {
+    "title": "Jackie Brown",
+    "Directed by": "Quentin Tarantino",
+    "Screenplay by": "Quentin Tarantino",
+    "Based on": [
+      "Rum Punch",
+      "by",
+      "Elmore Leonard"
+    ],
+    "Produced by": "Lawrence Bender",
+    "Starring": [
+      "Pam Grier",
+      "Samuel L. Jackson",
+      "Robert Forster",
+      "Bridget Fonda",
+      "Michael Keaton",
+      "Robert De Niro"
+    ],
+    "Cinematography": "Guillermo Navarro",
+    "Edited by": "Sally Menke",
+    "Production companies": [
+      "A Band Apart",
+      "Mighty Mighty Afrodite Productions",
+      "Lawrence Bender Productions"
+    ],
+    "Distributed by": "Miramax Films",
+    "Release dates": [
+      "December 8, 1997 ( Ziegfeld Theatre )",
+      "December 25, 1997 (United States)"
+    ],
+    "Running time": "154 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$12 million",
+    "Box office": "$74.7 million"
+  },
+  {
+    "title": "Kill Bill: Volume 1",
+    "Directed by": "Quentin Tarantino",
+    "Written by": "Quentin Tarantino",
+    "Produced by": "Lawrence Bender",
+    "Starring": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox",
+      "Michael Madsen",
+      "Daryl Hannah",
+      "David Carradine",
+      "Sonny Chiba",
+      "Julie Dreyfus",
+      "Chiaki Kuriyama",
+      "Gordon Liu",
+      "Michael Parks"
+    ],
+    "Cinematography": "Robert Richardson",
+    "Edited by": "Sally Menke",
+    "Music by": "RZA",
+    "Production company": "A Band Apart",
+    "Distributed by": "Miramax Films",
+    "Release date": [
+      "October 10, 2003"
+    ],
+    "Running time": "111 minutes",
+    "Country": "United States",
+    "Languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "Budget": "$30 million",
+    "Box office": "$180.9 million"
+  },
+  {
+    "title": "Kill Bill: Volume 2",
+    "Directed by": "Quentin Tarantino",
+    "Written by": "Quentin Tarantino",
+    "Produced by": "Lawrence Bender",
+    "Starring": [
+      "Uma Thurman",
+      "David Carradine",
+      "Michael Madsen",
+      "Daryl Hannah",
+      "Gordon Liu",
+      "Michael Parks"
+    ],
+    "Cinematography": "Robert Richardson",
+    "Edited by": "Sally Menke",
+    "Music by": [
+      "RZA",
+      "Robert Rodriguez"
+    ],
+    "Production company": "A Band Apart",
+    "Distributed by": "Miramax Films",
+    "Release dates": [
+      "April 8, 2004 ( Cinerama Dome )",
+      "April 16, 2004 (United States)"
+    ],
+    "Running time": "137 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$30 million",
+    "Box office": "$152.2 million"
+  },
+  {
+    "title": "Sin City",
+    "Directed by": [
+      "Frank Miller",
+      "Robert Rodriguez"
+    ],
+    "Based on": [
+      "Frank Miller"
+    ],
+    "Produced by": [
+      "Elizabeth Avellán",
+      "Frank Miller",
+      "Robert Rodriguez"
+    ],
+    "Starring": [
+      "Jessica Alba",
+      "Benicio del Toro",
+      "Brittany Murphy",
+      "Clive Owen",
+      "Mickey Rourke",
+      "Bruce Willis",
+      "Elijah Wood"
+    ],
+    "Cinematography": "Robert Rodriguez",
+    "Edited by": "Robert Rodriguez",
+    "Music by": [
+      "John Debney",
+      "Graeme Revell",
+      "Robert Rodriguez"
+    ],
+    "Production companies": [
+      "Dimension Films",
+      "Troublemaker Studios"
+    ],
+    "Distributed by": "Miramax Films",
+    "Release dates": [
+      "March 28, 2005 ( Mann National Theater )",
+      "April 1, 2005 (United States)"
+    ],
+    "Running time": "124 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$40 million",
+    "Box office": "$158.7 million"
+  },
+  {
+    "title": "Death Proof",
+    "Directed by": "Quentin Tarantino",
+    "Written by": "Quentin Tarantino",
+    "Produced by": [
+      "Quentin Tarantino",
+      "Robert Rodriguez",
+      "Elizabeth Avellán",
+      "Erica Steinberg"
+    ],
+    "Starring": [
+      "Kurt Russell",
+      "Rosario Dawson",
+      "Vanessa Ferlito",
+      "Jordan Ladd",
+      "Rose McGowan",
+      "Sydney Poitier",
+      "Tracie Thoms",
+      "Mary Elizabeth Winstead",
+      "Zoë Bell"
+    ],
+    "Cinematography": "Quentin Tarantino",
+    "Edited by": "Sally Menke",
+    "Production company": "Troublemaker Studios",
+    "Distributed by": "Dimension Films",
+    "Release date": [
+      "April 6, 2007"
+    ],
+    "Running time": "113 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$30 million",
+    "Box office": "$31.1 million"
+  },
+  {
+    "title": "Planet Terror",
+    "Directed by": "Robert Rodriguez",
+    "Written by": "Robert Rodriguez",
+    "Produced by": [
+      "Elizabeth Avellán",
+      "Robert Rodriguez",
+      "Quentin Tarantino"
+    ],
+    "Starring": [
+      "Rose McGowan",
+      "Freddy Rodriguez",
+      "Michael Biehn",
+      "Jeff Fahey",
+      "Josh Brolin",
+      "Marley Shelton"
+    ],
+    "Cinematography": "Robert Rodriguez",
+    "Edited by": [
+      "Robert Rodriguez",
+      "Ethan Maniquis"
+    ],
+    "Music by": "Robert Rodriguez",
+    "Production companies": [
+      "Rodriguez International Pictures",
+      "Troublemaker Studios"
+    ],
+    "Distributed by": "Dimension Films",
+    "Release date": [
+      "April 6, 2007"
+    ],
+    "Running time": "105 minutes 91 minutes (Grindhouse)",
+    "Country": "United States",
+    "Languages": [
+      "English",
+      "Spanish"
+    ],
+    "Budget": "$23 million",
+    "Box office": "$11.4 million"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "Directed by": "Quentin Tarantino",
+    "Written by": "Quentin Tarantino",
+    "Produced by": "Lawrence Bender",
+    "Starring": [
+      "Brad Pitt",
+      "Christoph Waltz",
+      "Michael Fassbender",
+      "Eli Roth",
+      "Diane Kruger",
+      "Daniel Brühl",
+      "Til Schweiger",
+      "Mélanie Laurent",
+      "B.J. Novak",
+      "August Diehl",
+      "Julie Dreyfus",
+      "Sylvester Groth",
+      "Jacky Ido",
+      "Denis Menochet",
+      "Mike Myers",
+      "Rod Taylor",
+      "Martin Wuttke"
+    ],
+    "Cinematography": "Robert Richardson",
+    "Edited by": "Sally Menke",
+    "Production companies": [
+      "A Band Apart",
+      "Studio Babelsberg",
+      "Visiona Romantica"
+    ],
+    "Distributed by": [
+      "The Weinstein Company (United States)",
+      "Universal Pictures (International)"
+    ],
+    "Release dates": [
+      "May 20, 2009 ( Cannes )",
+      "August 20, 2009 (Germany)",
+      "August 21, 2009 (United States)"
+    ],
+    "Running time": "153 minutes",
+    "Countries": [
+      "United States",
+      "Germany"
+    ],
+    "Languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "Budget": "$70 million",
+    "Box office": "$321.5 million"
+  },
+  {
+    "title": "Django Unchained",
+    "Directed by": "Quentin Tarantino",
+    "Written by": "Quentin Tarantino",
+    "Produced by": [
+      "Stacey Sher",
+      "Reginald Hudlin",
+      "Pilar Savone"
+    ],
+    "Starring": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio",
+      "Kerry Washington",
+      "Samuel L. Jackson",
+      "Walton Goggins",
+      "Dennis Christopher",
+      "James Remar",
+      "Michael Parks",
+      "Don Johnson"
+    ],
+    "Cinematography": "Robert Richardson",
+    "Edited by": "Fred Raskin",
+    "Production companies": [
+      "A Band Apart",
+      "Columbia Pictures"
+    ],
+    "Distributed by": [
+      "The Weinstein Company (United States)",
+      "Columbia Pictures (International; through Sony Pictures Releasing )"
+    ],
+    "Release dates": [
+      "December 11, 2012 ( Ziegfeld Theatre )",
+      "December 25, 2012 (United States)"
+    ],
+    "Running time": "165 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$100 million",
+    "Box office": "$425.4 million"
+  },
+  {
+    "title": "The Hateful Eight",
+    "Directed by": "Quentin Tarantino",
+    "Written by": "Quentin Tarantino",
+    "Produced by": [
+      "Richard N. Gladstein",
+      "Stacey Sher",
+      "Shannon McIntosh"
+    ],
+    "Starring": [
+      "Samuel L. Jackson",
+      "Kurt Russell",
+      "Jennifer Jason Leigh",
+      "Walton Goggins",
+      "Demián Bichir",
+      "Tim Roth",
+      "Michael Madsen",
+      "Bruce Dern",
+      "James Parks",
+      "Channing Tatum"
+    ],
+    "Narrated by": "Quentin Tarantino",
+    "Cinematography": "Robert Richardson",
+    "Edited by": "Fred Raskin",
+    "Music by": "Ennio Morricone",
+    "Production companies": [
+      "Shiny Penny",
+      "FilmColony"
+    ],
+    "Distributed by": "The Weinstein Company",
+    "Release dates": [
+      "December 7, 2015 ( Cinerama Dome )",
+      "December 25, 2015 (United States)"
+    ],
+    "Running time": [
+      "187 minutes ( Roadshow )",
+      "168 minutes ( General )"
+    ],
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$44–62 million",
+    "Box office": "$156.5 million"
+  },
+  {
+    "title": "Once Upon a Time in Hollywood",
+    "Directed by": "Quentin Tarantino",
+    "Written by": "Quentin Tarantino",
+    "Produced by": [
+      "David Heyman",
+      "Shannon McIntosh",
+      "Quentin Tarantino"
+    ],
+    "Starring": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Margot Robbie",
+      "Emile Hirsch",
+      "Margaret Qualley",
+      "Timothy Olyphant",
+      "Austin Butler",
+      "Dakota Fanning",
+      "Bruce Dern",
+      "Al Pacino"
+    ],
+    "Cinematography": "Robert Richardson",
+    "Edited by": "Fred Raskin",
+    "Production companies": [
+      "Columbia Pictures",
+      "Bona Film Group",
+      "Heyday Films",
+      "Visiona Romantica"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release dates": [
+      "May 21, 2019 ( Cannes )",
+      "July 26, 2019 (United States)",
+      "August 14, 2019 (United Kingdom)"
+    ],
+    "Running time": "161 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom",
+      "China"
+    ],
+    "Language": "English",
+    "Budget": "$90–96 million",
+    "Box office": "$374.6 million"
+  }
+]
